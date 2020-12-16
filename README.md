@@ -11,7 +11,7 @@ Link for both is provided in the training ppt.
 Use the following commands to access the code -
 
 
-git clone 
+git clone https://github.com/Koushik77/ReactIntroduction.git
 
 Go to your project directory, use the following commands to install dependencies and run the application - 
 
