@@ -9,11 +9,17 @@ Pre-requistes
 Link for both is provided in the training ppt.
 
 Use the following commands to access the code -
+
+
 git clone 
 
 Go to your project directory, use the following commands to install dependencies and run the application - 
 
+
+
 npm install
+
+
 npm run
 
 
